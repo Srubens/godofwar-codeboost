@@ -1,1 +1,1 @@
-AOS.init({duration:1e3,disable:"mobile"});var swiper=new Swiper(".slide_characters",{slidesPerView:3.5,spaceBetween:30,loop:!0,breakpoints:{320:{slidesPerView:1.1,spaceBetween:19},768:{slidesPerView:2.2},991:{slidesPerView:2.8},1200:{slidesPerView:3.5}},pagination:{clickable:!0}});
+AOS.init({duration:1e3,once:!0,disable:"mobile"});var swiper=new Swiper(".slide_characters",{slidesPerView:3.5,spaceBetween:30,loop:!0,breakpoints:{320:{slidesPerView:1.1,spaceBetween:19},768:{slidesPerView:2.2},991:{slidesPerView:2.8},1200:{slidesPerView:3.5}},pagination:{clickable:!0}});

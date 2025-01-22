@@ -108,4 +108,9 @@ p{
             height: 44rem;
         }
     }
+    @media(max-width:560px){
+        .info{
+            margin-left: 3rem;
+        }
+    }
 }
